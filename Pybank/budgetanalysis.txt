@@ -1,0 +1,9 @@
+
+              PyBank Summary
+------------------------------------------------
+Total Months: 86
+Profit / Loss: $38382578
+Avg Change in Profit: $0.00
+Greatest Increase: Feb-2012 ($1926159)
+Greatest Decrease: Sep-2013 ($-2196167)
+------------------------------------------------
